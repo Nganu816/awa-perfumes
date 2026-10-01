@@ -9,6 +9,7 @@
 | **Email** | hauwagabriel@mau.edu.ng |
 | **Course Code** | CSC 720 |
 | **Course Title** | E-Commerce |
+| **Assignment** | E-Commerce Course Project |
 | **Department** | Computer Science |
 | **Live demo** | `npm run dev` -> [http://localhost:3000](http://localhost:3000) |
 
@@ -218,6 +219,6 @@ This project was developed against the following standards and regulations:
 
 ## License
 
-Proprietary -  2026 AWA Perfumes. All rights reserved.
+Proprietary - (c) 2026 AWA Perfumes. All rights reserved.
 
-*This project was submitted as an academic software engineering assignment.*
+*This project was submitted in partial fulfilment of the requirements for the **CSC 720 - E-Commerce** assignment.*
