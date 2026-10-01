@@ -1,12 +1,13 @@
 # AWA Perfumes - E-Commerce Platform
-Student	Hauwa Gabriel
-Registration No.	MSC/CSC/25/0016
-Email	hauwagabriel@mau.edu.ng
-Course Code	CSC 720
-Course Title	E-Commerce
-Department	Computer Science
-Live demo	npm run dev → localhost:3000
-A state-of-the-art e-commerce web application for luxury fragrances, built with a modern, ISO-compliant design system in elegant lilac and purple.
+#A state-of-the-art e-commerce web application for luxury fragrances, built with a modern, ISO-compliant design system in elegant lilac and purple.
+#Student	Hauwa Gabriel
+#Registration No.	MSC/CSC/25/0016
+#Email	hauwagabriel@mau.edu.ng
+#Course Code	CSC 720
+#Course Title	E-Commerce
+#Department	Computer Science
+#Live demo	npm run dev → localhost:3000
+
 
 ## Features
 
